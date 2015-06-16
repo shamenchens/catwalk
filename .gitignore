@@ -1,0 +1,9 @@
+addon-sdk-*
+firefox/catwalk.xpi
+firefox/data/jquery-1.11.1.min.js
+firefox/data/catwalk.js
+firefox/data/catwalk.css
+chrome/key.pem
+chrome/jquery-1.11.1.min.js
+chrome/catwalk.js
+chrome/catwalk.css
